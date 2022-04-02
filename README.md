@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/jovepetkov/Test1/_apis/build/status/jpetkov.pipelines-dotnet-core%20(1)?branchName=master)](https://dev.azure.com/jovepetkov/Test1/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/jovepetkov/Test1/_apis/build/status/jpetkov.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/jovepetkov/Test1/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
